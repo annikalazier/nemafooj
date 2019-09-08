@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oaphuehee.yuanhuang.org/sitemap.xml
